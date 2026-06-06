@@ -38,7 +38,7 @@ The demo runs on **simulated wearable data**. The API layer is built and a live 
 
 ## Links
 - **Live demo (Manus):** https://bodycheck-mzfvhzqq.manus.space/
-- **GitHub repo:** https://github.com/alirezabedi/ModelAi-hackaton-mvp
+- **GitHub repo:** https://github.com/DrbagherianCode/ModelAIMVP
 - **Fotor creations:**
   - ECG five-state legend — https://www.fotor.com/explore/creation/6a2476df9e828f006d13ba36/
   - Wearable-score vs BodyCheck comparison — https://www.fotor.com/explore/creation/6a2477709e828f006d13ba48/

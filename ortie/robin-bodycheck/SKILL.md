@@ -118,7 +118,7 @@ Session 2 (tidy and synthesis):
 - "Do not invent; list under TODO" applied to missing research (five judge questions, student-specific wearable figure left as gaps)
 - A corrections file fixing a competitor-matrix overclaim, propagated across markdown, Q&A, Devpost, build-in-public, and the build-pack docx
 - Stale duplicates archived, not deleted
-- Confirmed: Team 19, Abbas (lead tech), Robin (lead marketing); repo `github.com/alirezabedi/ModelAi-hackaton-mvp`; three published Fotor creations
+- Confirmed: Team 19, Abbas (lead tech), Robin (lead marketing); repo `github.com/DrbagherianCode/ModelAIMVP`; three published Fotor creations
 
 ---
 

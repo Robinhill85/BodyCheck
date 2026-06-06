@@ -2,6 +2,9 @@
 
 All structural and consistency-pass changes made while tidying the BodyCheck pitch project. No facts, stats, or claims were invented; missing items were moved to `TODO.md`.
 
+## Corrections (post-close)
+- **MVP repo link corrected:** replaced the wrong MVP URL with `https://github.com/DrbagherianCode/ModelAIMVP` across `TODO.md`, `04-devpost/devpost-submission.md`, `CHANGELOG.md`, and the Orbit persona files (`SKILL.md`, `manifest.md`). Persona zip repackaged.
+
 ## Reorganisation
 - Renamed `01-pitch/BodyCheck_Pitch_CueCard.md` to `01-pitch/cue-card.md`.
 - Renamed `02-research/bodycheck-manus-research-brief.md` to `02-research/manus-research-brief.md`.
@@ -37,7 +40,7 @@ All structural and consistency-pass changes made while tidying the BodyCheck pit
 - **New file integrated:** `02-research/qa-and-corrections.md` (added by Robin) — verified YouGov figure, corrected competitor matrix, GDPR answer.
 - **Competitor matrix corrected:** rewrote `02-research/competitor-matrix.md` to match `qa-and-corrections.md`. The earlier "incumbents give no action / no safety" claims were wrong (Oura/Whoop/Fitbit recommend fitness actions; Apple has cardiac alerts, ECG, Emergency SOS). Differentiation now sits on symptom-fusion plus UK care routing plus red-flag handling.
 - **Q&A prep updated:** `02-research/qa-prep.md` now carries verified answers (YouGov age-band framing, GDPR, competitor accuracy) and points to `qa-and-corrections.md`.
-- **Devpost links filled:** added live demo, GitHub repo (`github.com/alirezabedi/ModelAi-hackaton-mvp`), three Fotor creation links, and Manus + Fotor award notes. Team set to Team 19, Abbas (lead tech), Robin (lead marketing).
+- **Devpost links filled:** added live demo, GitHub repo (`github.com/DrbagherianCode/ModelAIMVP`), three Fotor creation links, and Manus + Fotor award notes. Team set to Team 19, Abbas (lead tech), Robin (lead marketing).
 - **Creative brief updated:** documented the three delivered purpose-built Fotor visuals with placements and links; demoted the abstract Asset 1-3 backgrounds to optional.
 - **Build-in-public enriched:** added the competitor-matrix correction and YouGov verification to "what changed"; expanded the Manus and Fotor tool entries with specifics.
 - **Orbit manifest:** set `member_role` to "Lead marketing (Robin); Abbas = lead tech; Team 19" (was "assumed — confirm") and `github_repo` to the project repo.

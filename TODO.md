@@ -22,7 +22,7 @@
 - [ ] Confirm the smartwatch-ownership number printed on the site matches 46-47% ("nearly half" is supported; a different specific number is not).
 
 ## Done since last pass
-- [x] GitHub repo link added (https://github.com/alirezabedi/ModelAi-hackaton-mvp).
+- [x] GitHub repo link added (https://github.com/DrbagherianCode/ModelAIMVP).
 - [x] Fotor creation links added to Devpost and creative brief.
 - [x] YouGov wearable-ownership figure verified (`qa-and-corrections.md`).
 - [x] GDPR answer drafted (`qa-and-corrections.md` / `qa-prep.md`).
