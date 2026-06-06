@@ -1,0 +1,28 @@
+{
+  "summons_count": 3,
+  "status": "closed",
+  "commits": 3,
+  "agent_interactions": "45+",
+  "tool_switch_events": 0,
+  "sessions": [
+    {"name": "build", "focus": "full-stack build, copy corrections, image integration"},
+    {"name": "tidy-and-synthesis", "focus": "canonical-facts consistency pass, file reorganisation, corrections propagation"},
+    {"name": "close", "focus": "scoped out non-essential fields, finalised the package"}
+  ],
+  "manifest_fields_present": {
+    "hard_present": ["team_name", "member_name", "member_role", "main_track", "project_title", "what_you_built", "demo_link", "github_repo"],
+    "hard_missing": [],
+    "soft_present": [],
+    "soft_missing": [],
+    "skipped_by_builder": ["devpost_url", "Q6_interview_consent", "personal_email"]
+  },
+  "persona_tier_distribution": {
+    "Blossoming": 7,
+    "Germinating": 9,
+    "Seeding": 0
+  },
+  "capture_path": "standard",
+  "default_vs_hackathon": "general",
+  "captured_by": "Orbie v2.0.9",
+  "event": "VibeHack London 2026"
+}
