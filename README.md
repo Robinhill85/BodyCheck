@@ -6,7 +6,7 @@
 BodyCheck is an early-warning and care-routing layer for UK university students, built at VibeHack London 2026 (Track 1 Health Impact, Challenge 3: Prevention & Early Intervention). It reads wearable patterns (sleep, HRV/RMSSD, resting heart rate, skin-temperature deviation, respiratory rate, activity) plus quick symptom check-ins, runs them through a deterministic rules engine that outputs one of five body states, and uses an LLM only to explain that state and recommend one proportionate next step, routing to NHS 111, a GP, or university wellbeing when needed. The demo runs on simulated wearable data; the API layer is built and a live connection is possible, but the demo is not live.
 
 ## Positioning spine
-Wearables give scores. BodyCheck gives routing. Lead with one student (Maya), frame the gap (1 in 6 report a difficulty, fewer than 6% disclose), show the five states and the routing, explain the safety split (rules engine decides, LLM explains), and close on cohort value for universities. Population health is the close, not the core. Full version in `02-research/positioning.md`.
+Wearables give scores. BodyCheck gives routing. Lead with one student (Abbas), frame the gap (1 in 6 report a difficulty, fewer than 6% disclose), show the five states and the routing, explain the safety split (rules engine decides, LLM explains), and close on cohort value for universities. Population health is the close, not the core. Full version in `02-research/positioning.md`.
 
 ## 3-minute pitch, in brief
 - **0:00 Problem** — Abbas' silent early signals; the distress-to-help gap.

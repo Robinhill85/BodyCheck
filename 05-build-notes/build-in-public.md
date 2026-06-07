@@ -8,7 +8,7 @@ VibeHack London 2026 · Track 1 Health Impact · Challenge 3: Prevention & Early
 - **Frontend:** a five-state UI (Stable, Watch, Elevated Risk, Action Needed, Recovery) with per-state reason and one next step.
 - **Rules engine:** a deterministic, auditable classifier that turns six wearable signals plus symptom check-ins into one body state. The engine decides; it never diagnoses.
 - **API layer:** built and capable of a live wearable connection.
-- **Simulated wearable datasets:** a full seeded week for the demo character, Maya.
+- **Simulated wearable datasets:** a full seeded week for the demo character, Abbas.
 - **Pitch site:** the public site at bodycheck-mzfvhzqq.manus.space.
 - **Brand kit and creatives:** teal-on-near-black identity, ECG-waveform motif, logo files, and Fotor backgrounds.
 

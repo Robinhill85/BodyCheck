@@ -4,7 +4,7 @@ Category line, land it once: **Wearables give scores. BodyCheck gives routing.**
 
 ---
 
-**0:00 PROBLEM** "Meet Maya, a second-year at UCL..." → wrecked sleep, RHR climbing, HRV dropping. Watch sees it, she doesn't. Stat: **1 in 6 report a difficulty, fewer than 6% tell the uni.** \[PAUSE\] "Strain early, help late."
+**0:00 PROBLEM** "Meet Abbas, a second-year at UCL..." → wrecked sleep, RHR climbing, HRV dropping. Watch sees it, he doesn't. Stat: **1 in 6 report a difficulty, fewer than 6% tell the uni.** \[PAUSE\] "Strain early, help late."
 
 **0:25 CORE IDEA** "BodyCheck is an early-warning and care-routing layer..." → one state, one reason, one next step. Not a diagnosis, not a score. Say it: **"We simulate live streams so you see a full week in three minutes."**
 

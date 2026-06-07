@@ -17,7 +17,7 @@ BodyCheck is an early-warning and care-routing layer for UK university students:
 - A frontend with five body states (Stable, Watch, Elevated Risk, Action Needed, Recovery).
 - A deterministic rules engine that decides the state from six signals (sleep, HRV/RMSSD, resting heart rate, skin-temperature deviation, respiratory rate, activity) plus symptom check-ins.
 - An API layer (built and live-connection-capable).
-- Simulated wearable datasets for a full seeded week (Maya).
+- Simulated wearable datasets for a full seeded week (Abbas).
 - The pitch site, the brand kit, and the creatives.
 
 ## Who it is for
