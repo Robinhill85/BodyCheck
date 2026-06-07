@@ -9,7 +9,7 @@ BodyCheck is an early-warning and care-routing layer for UK university students,
 Wearables give scores. BodyCheck gives routing. Lead with one student (Maya), frame the gap (1 in 6 report a difficulty, fewer than 6% disclose), show the five states and the routing, explain the safety split (rules engine decides, LLM explains), and close on cohort value for universities. Population health is the close, not the core. Full version in `02-research/positioning.md`.
 
 ## 3-minute pitch, in brief
-- **0:00 Problem** — Maya's silent early signals; the distress-to-help gap.
+- **0:00 Problem** — Abbas' silent early signals; the distress-to-help gap.
 - **0:25 Core idea** — one state, one reason, one next step; simulated streams so a week fits in three minutes.
 - **0:50 Demo** — Stable to Watch to Elevated Risk to Action Needed (routes to care) to Recovery, plus a red-flag bypass.
 - **2:10 AI + safety** — deterministic engine decides; LLM only explains.
