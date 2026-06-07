@@ -39,6 +39,10 @@ Wearables give scores. BodyCheck gives routing. Lead with one student (Maya), fr
 | `CHANGELOG.md` | Every consistency-pass change | Done |
 | `TODO.md` | What is still missing before the deadline | Done |
 
+## Repositories
+- **This repo (pitch + docs):** the build-in-public story, brand kit, research, creatives, and Devpost text. Public.
+- **Code (MVP application):** [Robinhill85/ModelAI-BodyCheck](https://github.com/Robinhill85/ModelAI-BodyCheck) — the working backend (Node/Express, Postgres) and frontend (React/Vite). Currently private; request access for review.
+
 ## Team
 Team 19. Abbas (lead tech), Robin (lead marketing). Product: BodyCheck.
 
