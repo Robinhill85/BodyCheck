@@ -41,7 +41,7 @@ Wearables give scores. BodyCheck gives routing. Lead with one student (Abbas), f
 
 ## Repositories
 - **This repo (pitch + docs):** the build-in-public story, brand kit, research, creatives, and Devpost text. Public.
-- **Code (MVP application):** [Robinhill85/BodyCheck-MVP](https://github.com/Robinhill85/BodyCheck-MVP) — the working backend (Node/Express, Postgres) and frontend (React/Vite). Currently private; request access for review.
+- **Code (MVP application):** [DrbagherianCode/ModelAI-BodyCheck](https://github.com/DrbagherianCode/ModelAI-BodyCheck) — the working backend (Node/Express, Postgres) and frontend (React/Vite). Currently private; request access for review.
 
 ## Team
 Team 19. Abbas (lead tech), Robin (lead marketing). Product: BodyCheck.
