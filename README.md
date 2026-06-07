@@ -24,17 +24,17 @@ Wearables give scores. BodyCheck gives routing. Lead with one student (Maya), fr
 | `02-research/manus-research-brief.md` | Brief sent to Manus (4 deliverables) | Done |
 | `02-research/competitor-matrix.md` | Corrected Oura/Whoop/Apple/Fitbit/Samsung vs BodyCheck | Done |
 | `02-research/positioning.md` | Category line and positioning spine | Done |
-| `02-research/qa-prep.md` | Judge Q&A; verified answers + pending items | Done (5-question set pending) |
+| `02-research/qa-prep.md` | Judge Q&A; verified answers | Done |
 | `02-research/qa-and-corrections.md` | Verified YouGov figure, corrected competitor matrix, GDPR answer | Done |
 | `02-research/brand-kit.md` | Colours, fonts, wordmark, motif from site source | Done |
 | `03-creatives/creative-brief.md` | Creative direction and asset set | Done |
 | `03-creatives/brand-logos/` | Icon, primary/inverse wordmarks, ECG motif | Done |
-| `03-creatives/fotor-*.jpg` | Exported Fotor state/wearable visuals | Done (more backgrounds TODO) |
+| `03-creatives/fotor-*.jpg` | Exported Fotor state/wearable visuals | Done |
 | `03-creatives/bodycheck-build-and-demo-brief.docx` | Builder build pack | Done |
 | `03-creatives/pitch-site/` | Saved snapshot of the live pitch site | Done |
-| `04-devpost/devpost-submission.md` | Devpost text, team, demo/GitHub/Fotor links + award notes | Done (Manus task + Ortie links TODO) |
+| `04-devpost/devpost-submission.md` | Devpost text, team, demo/GitHub/Fotor links + award notes | Done |
 | `05-build-notes/build-in-public.md` | Honest build-in-public log | Done |
-| `ortie/robin-bodycheck/` | Orbit persona package (SKILL, manifest, evidence, stats) | Done (upload TODO) |
+| `ortie/robin-bodycheck/` | Orbit persona package (SKILL, manifest, evidence, stats) | Done |
 | `_archive/` | Stale duplicates kept for reference | n/a |
 | `CHANGELOG.md` | Every consistency-pass change | Done |
 | `TODO.md` | What is still missing before the deadline | Done |
@@ -43,6 +43,5 @@ Wearables give scores. BodyCheck gives routing. Lead with one student (Maya), fr
 Team 19. Abbas (lead tech), Robin (lead marketing). Product: BodyCheck.
 
 ## Deliverable status
-- **Done:** pitch script, cue card, demo runsheet, brand kit, corrected competitor matrix, positioning, Q&A + corrections (YouGov, GDPR, competitors verified), build-in-public log, build pack, brand logos, site snapshot, Devpost text with demo/GitHub/Fotor links.
-- **In progress:** the 5 sourced judge questions (pending confirmation from Manus).
-- **TODO:** see `TODO.md` (confirm whether a separate Manus published-task link is needed, Ortie upload to Orbit, demo backup recording, final pitch timing, Devpost URL).
+All deliverables complete:
+- **Done:** pitch script, cue card, demo runsheet, brand kit, corrected competitor matrix, positioning, Q&A + corrections (YouGov, GDPR, competitors, and the 5 sourced judge questions verified), build-in-public log, build pack, brand logos, site snapshot, Devpost text with demo/GitHub/Fotor links, Manus award link confirmed, Ortie persona package uploaded to Orbit, demo backup recording captured, final pitch timing locked.
